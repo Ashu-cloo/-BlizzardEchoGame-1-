@@ -1,0 +1,4 @@
+repository "Blizzarding Echo 2025-06-04_23-04-41/Blizzarding Echo@13469799881219@cloud"
+  path "/"
+    br "/main"
+    co "/main"
